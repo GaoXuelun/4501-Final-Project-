@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 72a1938faf9954144ba7502df4b847ab
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - HPBarUI: {fileID: 1054073196449232754, guid: e5e4510c1367fbb4586fefe49606afc9, type: 3}
+  - barPoint: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
